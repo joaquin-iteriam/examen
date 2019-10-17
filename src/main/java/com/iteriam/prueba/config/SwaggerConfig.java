@@ -1,4 +1,4 @@
-package com.iteriam.prueba;
+package com.iteriam.prueba.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
