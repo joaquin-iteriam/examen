@@ -2,7 +2,7 @@
 	
 		URL: http://localhost:8080/swagger-ui.html
 
--	Para construir un paquete de aplicación Spring Boot en un jar ejecutable con Maven se requiere Java >= 1.8 y ejecutar cualquiera de los dos comandos indicados desde la carpeta del proyecto que contiene el "pom.xml".
+-	Para construir un paquete de aplicación Spring Boot en un jar ejecutable con Maven, se requiere Java >= 1.8 y ejecutar cualquiera de los dos comandos indicados desde la carpeta del proyecto que contiene el "pom.xml".
 
 	Opción 1: maven package
 	Opción 2: mvn install
